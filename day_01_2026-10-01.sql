@@ -3,8 +3,7 @@
 -- 30 Days SQL Challenge  |  PostgreSQL
 -- ============================================================
 
--- day 1
---Amazon Interview Practice 21/02/2024
+--Amazon Interview Practice 
 
 
 /* 1. You have two tables: Product and Supplier.
